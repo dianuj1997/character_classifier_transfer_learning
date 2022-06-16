@@ -1,4 +1,4 @@
-# character_classifier_transfer_learning
+# Trainee trainer (part-2)
 Alexnet and resultant network weights: https://drive.google.com/drive/folders/15P7KKhaVnqGrqdvQ1RPS6tfwbwY_7E_H?usp=sharing
 
 This was part of my Bachelor's FYP, and its corresponding FYP report and defense of my idea is provided too.
