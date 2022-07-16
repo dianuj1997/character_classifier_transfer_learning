@@ -5,3 +5,4 @@ This was part of my Bachelor's FYP, and its corresponding FYP report and defense
 
 This repository basically classifies the current accelerometer signal of a trainee into states as if the trainee has capacity as a professional or a novice.
 
+![image](https://user-images.githubusercontent.com/47445756/179344983-0b27fe1a-7191-43e2-ac14-aa28edbd65b6.png)
